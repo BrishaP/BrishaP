@@ -3,7 +3,7 @@
 👀 **I’m interested in:**  
 - Full-stack development  
 - Software development with security principles integrated from the start  
-- DevOps and automation  
+- AI developments
 - All things tech, from games to interactive web applications  
 
 🌱 **I’m currently learning:**  
