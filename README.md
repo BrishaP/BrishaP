@@ -25,5 +25,5 @@
 
 😄 **Pronouns:** She/Her  
 
-⚡ **Fun fact:** I have a background in biomedical science, but I’m passionate about how technology can transform industries!
+⚡ **Fun fact:** I have a background in biomedical science and I’m passionate about how technology can transform industries!
 
