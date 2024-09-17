@@ -20,9 +20,7 @@
 
 📫 **How to reach me:**   
 - LinkedIn: [Brisha](www.linkedin.com/in/brisha-patel) 
-- GitHub: [@BrishaP](https://github.com/BrishaP)  
-
-😄 **Pronouns:** She/Her  
+- GitHub: [@BrishaP](https://github.com/BrishaP)   
 
 ⚡ **Fun fact:** I have a background in biomedical science and I’m passionate about how technology can transform industries!
 
