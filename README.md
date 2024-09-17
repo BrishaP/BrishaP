@@ -16,7 +16,6 @@
 💞️ **I’m looking to collaborate on:** 
 - Anything interesting!!
 - Open-source projects related to web development or AI
-- Security-focused software projects  
 - Any interesting full-stack or DevOps projects  
 
 📫 **How to reach me:**   
