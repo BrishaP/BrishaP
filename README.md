@@ -41,4 +41,4 @@
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Bpatel930?theme=dark&font=Roboto%20Flex)
-
+![Codewars](https://github.r2v.ch/codewars?user=BrishaP)
