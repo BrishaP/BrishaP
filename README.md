@@ -40,5 +40,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrishaP&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-https://leetcard.jacoblin.cool/Bpatel930?theme=dark&font=Roboto%20Flex
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bpatel930?theme=dark&font=Roboto%20Flex)
 
